@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "bibliotecas.h": "c",
+        "obj_loader.h": "c",
+        "cmath": "c",
+        "sdl_mixer.h": "c",
+        "mecanicas.h": "c",
+        "desenha.h": "c"
+    }
+}

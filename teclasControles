@@ -1,0 +1,29 @@
+Aqui estão listadas as teclas dos controles(ação) junto ao numero associado no array teclasPressionadas.
+
+Movimentação:
+(Array - Ação - Tecla) 
+1 - Frente      - W
+2 - Direita     - D
+3 - Tras        - S
+4 - Esquerda    - A
+5 - Cima        - C
+6 - Baixo       - Z
+7 - Rotaciona pra esquerda - Q
+8 - Rotaciona pra direita  - E
+
+Camera:
+1 - Camera de cima
+2 - Camera bacana com mouse
+3 - Camera primeira pessoa estilo DOOM
+
+
+Funcionalidade Extras:
+f - Some ou Desaparece com o cursor dentro da janela.
+p - Fixa ou Desafixa o cursor no centro da janela (FIXO POR PADRAO).
+x - Ativa o modo alternativo da helice.
+
+Controle das XWings
+, - Desliga rotacao
+. - Liga rotacao
+; - Reinicia posicao
+(OBS: Para desenvolvedor somente, pode ocorrer alguns bugs para um usuário leigo)
