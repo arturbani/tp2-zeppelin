@@ -5,9 +5,9 @@ Trabalho feito para a disciplina Computação Gráfica, lecionada pelo professor
 ## Sobre o trabalho:
 O trabalho consiste em um Zeppelin (no caso, uma nave! :) sobrevoando uma cidade. Seu objetivo é colocar em prática conceitos aprendidos em sala de aula e inaugurar a terceira dimensão em nossas práticas!
 
-###Caso você seja o dono de algum(a) modelo/textura usado(a), por favor entrar em contato por meio do perfil de um dos criadores no GitHub ou por email (arturbani@gmail.com ou rgomesms227@gmail.com) para que possamos colocar os créditos!
+### Caso você seja o dono de algum(a) modelo/textura usado(a), por favor entrar em contato por meio do perfil de um dos criadores no GitHub ou por email (arturbani@gmail.com ou rgomesms227@gmail.com) para que possamos colocar os créditos!
 
-###If you own any texture/model used in the game, please contact us here or by e-mail (arturbani@gmail.com or rgomesms227@gmail.com), so we can give you proper credits!
+### If you own any texture/model used in the game, please contact us here or by e-mail (arturbani@gmail.com or rgomesms227@gmail.com), so we can give you proper credits!
 
 ## Instalação e como "jogar":
 Certifique-se que possui as bibliotecas **freeglut**, **glew** e **SOIL** instaladas! 
